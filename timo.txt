@@ -1,4 +1,4 @@
-this is a sample web app that uses google places javascript API. 
+This is a sample web app that uses google places javascript API. 
 I wrote it to help pick your current location and help you locate nearby places based on place types.
 
 
